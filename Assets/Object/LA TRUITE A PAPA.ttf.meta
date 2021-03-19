@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c1e668a133ce0cf43ad2a444f693231f
+timeCreated: 1544944239
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LA TRUITE A PAPA
+  fontNames:
+  - LA TRUITE A PAPA
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,748 @@
+fileFormatVersion: 2
+guid: c778c9444c2614243af712c1e39977b2
+timeCreated: 1544966635
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_0
+    21300002: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_1
+    21300004: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_2
+    21300006: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_3
+    21300008: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_4
+    21300010: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_5
+    21300012: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_6
+    21300014: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_7
+    21300016: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_8
+    21300018: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_9
+    21300020: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_10
+    21300022: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_11
+    21300024: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_12
+    21300026: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_13
+    21300028: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_14
+    21300030: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_15
+    21300032: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_16
+    21300034: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_17
+    21300036: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_18
+    21300038: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_19
+    21300040: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_20
+    21300042: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_21
+    21300044: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_22
+    21300046: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_23
+    21300048: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_24
+    21300050: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_25
+    21300052: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_26
+    21300054: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_27
+    21300056: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_28
+    21300058: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_29
+    21300060: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_30
+    21300062: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_31
+    21300064: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_32
+    21300066: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_33
+    21300068: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_34
+    21300070: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_35
+    21300072: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_36
+    21300074: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_37
+    21300076: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_38
+    21300078: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_39
+    21300080: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_40
+    21300082: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_41
+    21300084: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_42
+    21300086: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_43
+    21300088: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_44
+    21300090: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_45
+    21300092: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_46
+    21300094: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_47
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 222
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 222
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 222
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 222
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_4
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 255
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 247
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 247
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 238
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 150
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 150
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 150
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 150
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_12
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 197
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 194
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 190
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_15
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 186
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 44
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 44
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 44
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 45
+        width: 39
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_20
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 123
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_21
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 123
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 123
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 120
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_24
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 105
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_25
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 105
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_26
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 105
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_27
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 102
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_28
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 105
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_29
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 87
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_30
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 84
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_31
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 84
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 87
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_33
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 85
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_34
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 84
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_35
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 66
+        width: 56
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_36
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 48
+        width: 63
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_37
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 51
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 9
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_39
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 9
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_40
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 9
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_41
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 9
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_42
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 30
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_43
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 33
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_44
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 15
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_45
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 15
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_46
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 15
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Fatal Fury 2 - Stone Pillar Bonus_47
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 12
+        width: 64
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
